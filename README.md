@@ -8,22 +8,21 @@ https://img.shields.io/badge/PRs-welcome-brightgreen.svg
 https://img.shields.io/badge/HackTheBox-SMTPXploit-9FEF00
 https://img.shields.io/badge/Bug_Bounty-SMTP-ff69b4
 
-<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
+║                                                                         ║
 ║   ███████╗███╗   ███╗████████╗██████╗ ██╗  ██╗██████╗ ██╗      ║
-║   ██╔════╝████╗ ████║╚══██╔══╝██╔══██╗╚██╗██╔╝██╔══██╗██║      ║
+║   ██╔════╝████╗ ████║╚══██╔══╝██╔══██╗╚██╗██╔╝██╔══██╗██║     ║
 ║   ███████╗██╔████╔██║   ██║   ██████╔╝ ╚███╔╝ ██████╔╝██║      ║
-║   ╚════██║██║╚██╔╝██║   ██║   ██╔═══╝  ██╔██╗ ██╔═══╝ ██║      ║
+║   ╚════██║██║╚██╔╝██║   ██║   ██╔═══╝  ██╔██╗ ██╔═══╝ ██║       ║
 ║   ███████║██║ ╚═╝ ██║   ██║   ██║     ██╔╝ ██╗██║     ███████╗ ║
-║   ╚══════╝╚═╝     ╚═╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝╚═╝     ╚══════╝ ║
-║                                                                  ║
-║       Advanced SMTP Penetration Testing Framework                ║
-║       AUTHOR: SYLHETYHACKVENGER (THE-ERROR808)                  ║
-║       Version: 2026 Ultimate TUI Edition                        ║
-║                                                                  ║
+║   ╚══════╝╚═╝     ╚═╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝╚═╝     ╚══════╝   ║
+║                                                                         ║
+║       Advanced SMTP Penetration Testing Framework                       ║
+║       AUTHOR: SYLHETYHACKVENGER (THE-ERROR808)                          ║
+║       Version: 2026 Ultimate TUI Edition                                ║
+║                                                                         ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 [![Gray Hat](https://img.shields.io/badge/Gray_Hat-Tool_For_Ethical_Hacking-FFD700)](https://github.com/SYLHETYHACKVENGER/SMTPXploit)
