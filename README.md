@@ -381,38 +381,6 @@ masscan -p25,465,587,2525 192.168.1.0/24
 dig mx target.com
 nslookup -type=mx target.com
 ```
-
-📊 Sample Output
-
-TUI Dashboard
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ███████╗███╗   ███╗████████╗██████╗ ██╗  ██╗██████╗ ██╗      ║
-║   ██╔════╝████╗ ████║╚══██╔══╝██╔══██╗╚██╗██╔╝██╔══██╗██║      ║
-║   ███████╗██╔████╔██║   ██║   ██████╔╝ ╚███╔╝ ██████╔╝██║      ║
-║   ╚════██║██║╚██╔╝██║   ██║   ██╔═══╝  ██╔██╗ ██╔═══╝ ██║      ║
-║   ███████║██║ ╚═╝ ██║   ██║   ██║     ██╔╝ ██╗██║     ███████╗ ║
-║   ╚══════╝╚═╝     ╚═╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝╚═╝     ╚══════╝ ║
-║                                                                  ║
-║       Advanced SMTP Penetration Testing Framework                ║
-║       AUTHOR: SYLHETYHACKVENGER (THE-ERROR808)                  ║
-║       Version: 2026 Ultimate TUI Edition                        ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-
-┌──────────────────────────────────────────────────────────────┐
-│ ⚠️  WARNING: This tool performs aggressive penetration testing ⚠️ │
-│                                                              │
-│ ONLY USE ON SYSTEMS YOU ARE LEGALLY AUTHORIZED TO TEST      │
-│ UNAUTHORIZED USE IS ILLEGAL                                 │
-│                                                              │
-│ By continuing, you confirm you have explicit, documented     │
-│ permission                                                   │
-└──────────────────────────────────────────────────────────────┘
-```
-
 Scan Results
 
 ```
