@@ -9,26 +9,11 @@ https://img.shields.io/badge/HackTheBox-SMTPXploit-9FEF00
 https://img.shields.io/badge/Bug_Bounty-SMTP-ff69b4
 
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                         ║
-║   ███████╗███╗   ███╗████████╗██████╗ ██╗  ██╗██████╗ ██╗      ║
-║   ██╔════╝████╗ ████║╚══██╔══╝██╔══██╗╚██╗██╔╝██╔══██╗██║     ║
-║   ███████╗██╔████╔██║   ██║   ██████╔╝ ╚███╔╝ ██████╔╝██║      ║
-║   ╚════██║██║╚██╔╝██║   ██║   ██╔═══╝  ██╔██╗ ██╔═══╝ ██║       ║
-║   ███████║██║ ╚═╝ ██║   ██║   ██║     ██╔╝ ██╗██║     ███████╗ ║
-║   ╚══════╝╚═╝     ╚═╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝╚═╝     ╚══════╝   ║
-║                                                                         ║
-║       Advanced SMTP Penetration Testing Framework                       ║
-║       AUTHOR: SYLHETYHACKVENGER (THE-ERROR808)                          ║
-║       Version: 2026 Ultimate TUI Edition                                ║
-║                                                                         ║
-╚══════════════════════════════════════════════════════════════════╝
 
 [![Gray Hat](https://img.shields.io/badge/Gray_Hat-Tool_For_Ethical_Hacking-FFD700)](https://github.com/SYLHETYHACKVENGER/SMTPXploit)
 [![Cyber Security](https://img.shields.io/badge/Cyber_Security-Research_Ready-00CED1)](https://github.com/SYLHETYHACKVENGER/SMTPXploit)
 [![Pentest](https://img.shields.io/badge/Pentest-Professional_Tool-FF4500)](https://github.com/SYLHETYHACKVENGER/SMTPXploit)
-
+```
 </div>
 
 ## 🌐 Digital Architecture Simulator
